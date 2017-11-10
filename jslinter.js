@@ -1,3 +1,7 @@
+// jslinter.js
+// Copyright (c) Dean Wood
+// License: MIT
+
 "use strict";
 
 const usage = "Usage: node jslinter.js <filename> [-node] [-browser] [-this] [-for]";
